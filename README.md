@@ -10,6 +10,9 @@ This is an executable version of a face recognition program written in Python us
 - Real-time video stream processing,
 - No need to have Python installed on your PC to run.
 
+## IMPORTANT
+Executable files and the 'haarcascade' folder must be located in the same directory. The program will not function without the 'haarcascade' folder.
+
 ## Usage:
 - Download the executable file from the repository.
 - Inside, you will find 2 executable files:
@@ -26,9 +29,12 @@ This is an executable version of a face recognition program written in Python us
 Эта исполняемая версия программы распознавания лиц, написанная на Python с использованием библиотеки OpenCV и каскадов Хаара для распознавания лиц. Программа может распознавать лица и улыбки в реальном времени.
 
 ## Основные функции:
-Распознавание лиц с использованием каскадов Хаара,
-Обработка видеопотока в реальном времени,
-Не требуется наличия Python на вашем ПК для запуска.
+- Распознавание лиц с использованием каскадов Хаара,
+- Обработка видеопотока в реальном времени,
+- Не требуется наличия Python на вашем ПК для запуска.
+
+## ВАЖНО
+Исполняемые файлы и папка 'haarcascade' должны находиться в одной директории. Программа не будет функционировать без папки 'haarcascade'.
 
 ## Использование:
 - Скачайте исполняемый файл из репозитория.
